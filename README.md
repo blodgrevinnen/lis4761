@@ -8,6 +8,12 @@
 
 ### Notable Assignments:
 
+*Data Exploration*
+
+- Uses Google Colab
+
+[Assignment:](https://colab.research.google.com/drive/1sBKmtHWcpLB8NBoR6L-jJrb2Sst5N-Wv?usp=sharing)
+
 *Exercise 2: Data Cleaning*
 
 - Uses Orange Datamining
