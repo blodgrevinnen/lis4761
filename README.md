@@ -1,4 +1,4 @@
-# Lis4761 - Data Mining and Analytics
+# LIS4761 - Data Mining and Analytics
 
 ## Tanner Morlan
 
